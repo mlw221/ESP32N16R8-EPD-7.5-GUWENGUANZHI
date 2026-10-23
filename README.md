@@ -1,4 +1,4 @@
-# ESP32N16R8+EPD-7.5
+# ESP32S3 N16R8+EPD-7.5
 ESP32-S3 N16R8 《古文观止》每日一篇 · 离线版 · U8g2同款Unifont字库	
 屏幕：7.5 寸 480x800 黑白红三色墨水屏 GDEW075Z08 (GD7965)	
 驱动：GxEPD2_750c_GDEW075Z08	
